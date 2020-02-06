@@ -15,7 +15,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn import metrics
 #%matplotlib inline
 
-dataset = pd.read_csv('C:/Users/P772927/Desktop/Bharath Kumar/1 Initiatives/NDC play day Oct-2019/global_temperature.csv')
+dataset = pd.read_csv('global_temperature.csv')
 
 dataset.shape
 
